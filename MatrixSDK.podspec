@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
       
       ss.source_files = "MatrixSDK", "MatrixSDK/**/*.{h,m}"
       
-      ss.dependency 'AFNetworking', '~> 3.3'
+      ss.dependency 'AFNetworking', '~> 3.2'
       ss.dependency 'GZIP', '~> 1.2.1'
 
       # Requirements for e2e encryption
