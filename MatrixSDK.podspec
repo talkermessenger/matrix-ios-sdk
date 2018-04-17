@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.author             = { "matrix.org" => "support@matrix.org" }
   s.social_media_url   = "http://twitter.com/matrixdotorg"
 
-  s.source       = { :git => "https://github.com/matrix-org/matrix-ios-sdk.git", :tag => "v0.10.7" }
+  s.source       = { :git => "https://github.com/talkermessenger/matrix-ios-sdk.git", :tag => "v0.10.7" }
   
   s.requires_arc  = true
   
